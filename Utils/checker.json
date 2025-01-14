@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "message": "Hello, this is a valid message!"
+  },
+  {
+    "name": null,
+    "email": null,
+    "message": ""
+  },
+  {
+    "name": "123InvalidName",
+    "email": "jane.doe@example.com",
+    "message": "Hello, everything else is valid!"
+  },
+  {
+    "name": "David Smith",
+    "email": "not-an-email",
+    "message": "Everything else is valid!"
+  },
+  {
+    "name": "Alice Brown",
+    "email": "alice.brown@example.com",
+    "message": ""
+  },
+  {
+    "name": " Jane Doe",
+    "email": "jane.doe@example.com",
+    "message": "Hello, valid except for the leading space in the name!"
+  }
+]
